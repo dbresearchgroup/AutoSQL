@@ -19,7 +19,7 @@ AutoSQL is a relational database management system designed for fully autonomous
 Check out the installation instructions.
 
 # Supported Platforms
-The Wiki also contains a list of supported platforms.
+The [Wiki](https://github.com/dbresearchgroup/AutoSQL/wiki) also contains a list of supported platforms.
 
 Development / Contributing
 We invite you to help us build the future of autonomous DBMSs. Please look up the contributing guide for details.
