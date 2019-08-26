@@ -13,7 +13,7 @@ Many advisory tools to assist database administrators in system tuning and physi
 
 A new architecture is needed for a database management system (DBMS) which is designed for autonomous operations. This is different than earlier attempts because all aspects of the system are controlled by an integrated planning component. In addition to optimizing the system for the current workload, it predicts future workload trends which lets the system prepare itself accordingly. This eliminates the requirement of a human to determine the right way, and reduces time taken to deploy the changes, optimizing the DBMS to provide high-performance. Auto-management of these systems has surpassed the abilities of human experts.
 
-AutoSQL is a relational database management system designed for fully autonomous optimization of hybrid workloads. See the AutoSQL wiki for more information.
+AutoSQL is a relational database management system designed for fully autonomous optimization of hybrid workloads. See the [AutoSQL wiki](https://github.com/dbresearchgroup/AutoSQL/wiki) for more information.
 
 # Installation
 Check out the [installation instructions](https://github.com/dbresearchgroup/AutoSQL/wiki/Installation).
