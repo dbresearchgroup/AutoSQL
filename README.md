@@ -16,7 +16,7 @@ A new architecture is needed for a database management system (DBMS) which is de
 AutoSQL is a relational database management system designed for fully autonomous optimization of hybrid workloads. See the AutoSQL wiki for more information.
 
 # Installation
-Check out the installation instructions.
+Check out the [installation instructions](https://github.com/dbresearchgroup/AutoSQL/wiki/Installation).
 
 # Supported Platforms
 The [Wiki](https://github.com/dbresearchgroup/AutoSQL/wiki) also contains a list of supported platforms.
