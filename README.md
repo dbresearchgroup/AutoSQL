@@ -22,7 +22,7 @@ Check out the [installation instructions](https://github.com/dbresearchgroup/Aut
 The [Wiki](https://github.com/dbresearchgroup/AutoSQL/wiki) also contains a list of supported platforms.
 
 ## Development / Contributing
-We invite you to help us build the future of autonomous DBMSs. Please look up the [contributing guide](https://github.com/dbresearchgroup/AutoSQL/wiki/Contributing) for details.
+We invite you to help us build the future of autonomous DBMSs. Please look up the [contributing guide](https://github.com/dbresearchgroup/AutoSQL/wiki/Contributing) for details
 
 ## Issues
 Before reporting a problem, please check how to file an issue guide.
